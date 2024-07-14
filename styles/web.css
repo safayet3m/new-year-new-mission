@@ -1,73 +1,79 @@
-.banner-item{
+.banner-item {
     background-image: url('../resources/Banner\ Image.png');
 
     margin: 50px 140px 120px 140px;
     border-radius: 16px;
     width: 1320px;
     height: 600px;
-    
+
 }
-.benner-hedding{
-    color:#d3c3c3 ;
+
+.benner-hedding {
+    color: #d3c3c3;
     font-size: 32px;
     font-weight: 400;
     text-align: center;
     align-items: center;
     padding-top: 150px;
     margin-bottom: 0px;
+    margin-right: 140px;
 }
-.benner-titel{
+
+.benner-titel {
     color: #fadada;
     text-align: center;
     font-size: 72px;
     font-weight: 900;
     line-height: 95px;
-    padding:0px 345px 200px 345px ;
+    padding: 0px 345px 200px 345px;
     margin-top: 0px;
 }
-.discaunt-continar{
+
+.discaunt-continar {
     text-align: center;
     margin: 120px 250px;
 }
-.discaunt{
+
+.discaunt {
     color: #f00;
     font-size: 88px;
     font-weight: 700;
     margin-bottom: 10px;
 }
 
-.condition{
+.condition {
     font-size: 24px;
     font-weight: 500;
     color: #f00;
 
 
 }
-.header-footer-headding{
-    color:#070211 ;
+
+.header-footer-headding {
+    color: #070211;
     font-size: 48px;
     font-weight: 700;
 }
-.main-up-contranir{
+
+.main-up-contranir {
     background-image: url('../resources/Vectorrr.png');
     margin: 0px 140px;
-    width:1320px ;
+    width: 1320px;
     height: 600px;
     display: flex;
-    justify-content: space-between
-;
+    justify-content: space-between;
 
-    
-    
+
+
 }
 
-.main-up-part{
+.main-up-part {
     padding-top: 100px;
     padding-left: 126px;
     padding-right: 300px;
 }
 
-.main-up-headding{
+.main-up-headding {
     color: #FFF;
     font-size: 64px;
     font-weight: 900;
@@ -76,7 +82,7 @@
 
 }
 
-.main-up-description{
+.main-up-description {
     color: rgba(255, 255, 255, 0.80);
 
     font-size: 18px;
@@ -84,35 +90,37 @@
     line-height: 30px;
 }
 
-.main-up-ancor{
+.main-up-ancor {
     text-decoration: none;
     text-align: center;
-    color:#FFF ;
+    color: #FFF;
     font-size: 20px;
     font-weight: 700;
     text-transform: uppercase;
     margin-bottom: 130px;
 }
 
-.main-up-2024{
+.main-up-2024 {
 
     align-items: center;
     padding: 65px 130px 65px 10px;
 
 }
-.main-mid-contriner{
+
+.main-mid-contriner {
     margin: 120px 140px;
     text-align: center;
     text-transform: capitalize;
-    background-color:#fadada;
+    background-color: #fadada;
     width: 1320px;
     height: 300px;
     padding-top: 100px;
     padding-bottom: 110px;
     border-radius: 10px;
-   
+
 }
-.mid-main-text{
+
+.mid-main-text {
     margin-bottom: 8px;
     color: #f00;
     font-size: 32px;
@@ -120,40 +128,46 @@
     line-height: 56px;
 
 }
-.mid-span{
+
+.mid-span {
     color: #070211;
     font-size: 32px;
     font-weight: 600;
     line-height: 56px;
 }
-.mid-main-btn{
+
+.mid-main-btn {
     border-radius: 8px;
     background: #f00;
     color: white;
-    gap:10px;
+    gap: 10px;
     padding: 16px 32px;
     border: none;
     margin-top: 40px;
     font-size: 20px;
     font-weight: 700;
 }
-.coming-soon-contranir{
+
+.coming-soon-contranir {
     display: flex;
     margin: 120px 140px;
     justify-content: space-around;
 }
-.coming-soon-colum-1st{
+
+.coming-soon-colum-1st {
     width: 33%;
     padding-top: 100px;
     margin-right: 70px;
 }
-.coming-soon-titel{
+
+.coming-soon-titel {
     color: #f00;
     font-size: 20px;
     font-weight: 500;
     margin-bottom: 10px;
 }
-.coming-soon-hedding{
+
+.coming-soon-hedding {
     color: #070211;
     font-size: 48px;
     font-weight: 900;
@@ -161,80 +175,135 @@
     margin-top: 0px;
 
 }
-.coming-soon-colum-1st-description{
+
+.coming-soon-colum-1st-description {
     color: rgba(7, 2, 17, 0.60);
     font-size: 20px;
     font-weight: 400;
     line-height: 32px;
 }
-.coming-soon-colum-2nd{
+
+.coming-soon-colum-2nd {
     border: 10px solid red;
     border-color: #f00;
     border-radius: 10px;
     padding: 8px;
 }
-#img{
+
+#img {
     border: 10px solid red;
     border-color: #f00;
     border-radius: 50%;
     padding: 8px;
 }
-.coming-soon-colum-3rd{
+
+.coming-soon-colum-3rd {
     margin-left: 100px;
     width: 33%;
-   
+
 }
-.coming-soon-year{
+
+.coming-soon-year {
     color: #f00;
     font-size: 48px;
     font-weight: 700;
 }
-.coming-soon-colum-2nd-description{
-   color: rgba(7, 2, 17, 0.60);
-   font-size: 20px;
-   font-weight: 400;
-   line-height: 32px;
-   margin-bottom: 43px;
+
+.coming-soon-colum-2nd-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-bottom: 43px;
 }
-.holidays-contranir{
+
+.holidays-contranir {
     text-align: center;
     text-transform: capitalize;
     margin-left: 220px;
     margin-right: 220px;
 }
-.holiday-tital{
+
+.holiday-tital {
     font-size: 24px;
     font-weight: 500;
 }
-.holiday-hedding{
+
+.holiday-hedding {
     color: #f00;
     font-size: 72px;
     font-weight: 900;
 }
-.holiday-span{
+
+.holiday-span {
     color: #070211;
     font-size: 72px;
     font-weight: 900;
 }
 
 
-.holiday-descrition{
-    font-size:20px;
+.holiday-descrition {
+    font-size: 20px;
     font-weight: 500;
     line-height: 32px;
     color: rgba(7, 2, 17, 0.60);
 }
 
-.holiday-img-contrainer{
+.holiday-img-contrainer {
     background-image: url('../resources/Rectangle\ 1.png');
     background-repeat: no-repeat;
-    background-position: right,bottom;
+    background-position: right, bottom;
+    position: relative;
+    margin-right: 140px;
+    
+    height: 433px;
+    
+
+
 }
-.discount-img{
-    align-items: center;
-    margin: 86px 285px 886px 60px;
+
+.discount-img {
+    position: relative;
+    right: -850px;
+    margin-top: 80px;
 }
 
+.holiday-red-background {
+    background-image: url('../resources/Rectangle\ 2.png');
+    width: 100%;
+    height: 229px;
+    position: relative;
+    background-repeat: no-repeat;
+    margin-left: 152px;
 
+}
 
+.red-box {
+    position: relative;
+    margin-top: 120px;
+    top: -500px;
+    width: 643px;
+    height: 570px;
+    
+}
 
+.Portfolio-item{
+    color: #f00;
+    font-size: 24px;
+    font-weight: 500;
+}
+.Portfolio-hedding{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    margin-top: 16px;
+}
+.Portfolio-descrption{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-top: 22px;
+    margin-right: 140px;
+    margin-left: 140px;
+}
