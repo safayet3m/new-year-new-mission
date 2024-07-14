@@ -1,0 +1,50 @@
+.banner-item{
+    background-image: url('../resources/Banner\ Image.png');
+
+    margin: 50px 140px 120px 140px;
+    border-radius: 16px;
+    width: 1320px;
+    height: 600px;
+    
+}
+.benner-hedding{
+    color:#d3c3c3 ;
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+    align-items: center;
+    padding-top: 150px;
+    margin-bottom: 0px;
+}
+.benner-titel{
+    color: #fadada;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    padding:0px 345px 200px 345px ;
+    margin-top: 0px;
+}
+.discaunt-continar{
+    text-align: center;
+    margin: 120px 250px;
+}
+.discaunt{
+    color: #f00;
+    font-size: 88px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.condition{
+    font-size: 24px;
+    font-weight: 500;
+    color: #f00;
+
+
+}
+.header-footer-headding{
+    color:#070211 ;
+    font-size: 48px;
+    font-weight: 700;
+}
