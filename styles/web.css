@@ -266,6 +266,7 @@
     position: relative;
     right: -850px;
     margin-top: 80px;
+    margin-right: 140px;
 }
 
 .holiday-red-background {
@@ -291,12 +292,16 @@
     color: #f00;
     font-size: 24px;
     font-weight: 500;
+    margin-right: 140px;
+    margin-left: 140px;
 }
 .Portfolio-hedding{
     color: #070211;
     font-size: 48px;
     font-weight: 900;
     margin-top: 16px;
+    margin-right: 140px;
+    margin-left: 140px;
 }
 .Portfolio-descrption{
     color: rgba(7, 2, 17, 0.60);
