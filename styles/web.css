@@ -254,10 +254,10 @@
     background-repeat: no-repeat;
     background-position: right, bottom;
     position: relative;
-    margin-right: 140px;
-    
+    margin-right: 150px;
+    /* background-position: left -50px; */
     height: 433px;
-    
+
 
 
 }
@@ -285,17 +285,18 @@
     top: -500px;
     width: 643px;
     height: 570px;
-    
+
 }
 
-.Portfolio-item{
+.Portfolio-item {
     color: #f00;
     font-size: 24px;
     font-weight: 500;
     margin-right: 140px;
     margin-left: 140px;
 }
-.Portfolio-hedding{
+
+.Portfolio-hedding {
     color: #070211;
     font-size: 48px;
     font-weight: 900;
@@ -303,12 +304,59 @@
     margin-right: 140px;
     margin-left: 140px;
 }
-.Portfolio-descrption{
+
+.Portfolio-descrption {
     color: rgba(7, 2, 17, 0.60);
     font-size: 20px;
     font-weight: 400;
     line-height: 32px;
-    margin-top: 22px;
+    margin-top: 10px;
     margin-right: 140px;
     margin-left: 140px;
+    padding-right: 420px;
 }
+
+/* .Portfolio-img-contranir{
+  
+    background-repeat: no-repeat;
+   
+    display: flex;
+}
+.rectangel-3 {
+    background-image: url('../resources/Rectangle\ 3.png');
+    width: 424px;
+    height: 450px;
+    border-radius: 8px;
+
+}
+
+.rectangel-4{
+    background-image:url('../resources/Rectangle\ 4.png');
+ }
+ .rectangel-5{
+    background-image: url('../resources/Rectangle\ 5.png');
+ } */
+
+ .Portfolio-img-contranir-top{
+    margin: 50px 140px 24px 140px;
+    display: flex;
+ }
+ .img-rectangel-3{
+    margin-right: 24px;
+ }
+ .img-rectangel-4{
+    margin-right: 24px;
+ }
+
+ .Portfolio-img-contranir-down{
+    margin: 0px 140px 0px 140px;
+    display: flex; 
+ }
+ .img-rectangel-6{
+    margin-right: 24px;
+ }
+ .img-rectangel-7{
+    margin-right: 24px;
+ }
+
+
