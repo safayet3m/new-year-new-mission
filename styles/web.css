@@ -370,6 +370,7 @@
     width: 1320px;
     height: 616px;
     padding: 80px 0px 40px 0px;
+   
 }
 
 .subscribe-newsletter-hedding {
@@ -377,6 +378,7 @@
     font-size: 48px;
     font-weight: 900;
     margin-top: 40px;
+    
 }
 
 .subscribe-newsletter-description {
@@ -398,8 +400,9 @@
     color: #FFF;
     font-size: 20px;
     font-weight: 600;
-    left: -1500px;
+    left: -50px;
     border: none;
+    position: relative;
 }
 
 .subscribe-newsletter-email-part {
@@ -413,9 +416,13 @@
     border: none;
     text-align: center;
 }
+.subscribe-newsletter-btn-part{
+    border-radius: 50%;
+    position: relative;
+}
 
 footer {
-    padding: 140px;
+    padding:110px 140px;
     background-color: #070211;
 }
 
@@ -427,25 +434,55 @@ footer {
     font-weight: 500;
     line-height: 40px;
 }
-.footer-up-contract-number{
-    display: inline;
-    width: 50%;
+
+.footer-contract{
+    /* display: flex; */
+    justify-items: center;
+    align-items: center;
+   
 }
-.footer-up-contract-website{
-    display: inline;
-    width: 50%;
-    
+
+.footer-up-contract-number {
+    display: flex;
+    justify-items: center;
+    align-items: center;
 }
-.footer-mid-social-contranir{
+
+.footer-up-contract-website {
+    display:flex ;
+    justify-items: center;
+    align-items: center;
+
+}
+
+
+.footer-mid-social-contranir {
     text-align: center;
     margin-top: 48px;
     margin-bottom: 48px;
 }
-.footer-down{
+
+.footer-down {
     display: flex;
     justify-content: space-between;
     color: #FFF;
     margin-top: 50px;
     font-size: 24px;
     font-weight: 500;
+}
+
+.footer-phone-pic {
+    width: 24px;
+    height: 24px;
+
+}
+
+.footer-up-contract-website {
+    width: 24px;
+    height: 24px;
+
+}
+
+.number{
+    top: 20px;
 }
