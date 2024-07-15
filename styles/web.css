@@ -337,26 +337,115 @@
     background-image: url('../resources/Rectangle\ 5.png');
  } */
 
- .Portfolio-img-contranir-top{
+.Portfolio-img-contranir-top {
     margin: 50px 140px 24px 140px;
     display: flex;
- }
- .img-rectangel-3{
-    margin-right: 24px;
- }
- .img-rectangel-4{
-    margin-right: 24px;
- }
+}
 
- .Portfolio-img-contranir-down{
+.img-rectangel-3 {
+    margin-right: 24px;
+}
+
+.img-rectangel-4 {
+    margin-right: 24px;
+}
+
+.Portfolio-img-contranir-down {
     margin: 0px 140px 0px 140px;
-    display: flex; 
- }
- .img-rectangel-6{
-    margin-right: 24px;
- }
- .img-rectangel-7{
-    margin-right: 24px;
- }
+    display: flex;
+}
 
+.img-rectangel-6 {
+    margin-right: 24px;
+}
 
+.img-rectangel-7 {
+    margin-right: 24px;
+}
+
+.subscribe-newsletter-contranir {
+    text-align: center;
+    margin: 120px 140px;
+    background-color: #fadada;
+    width: 1320px;
+    height: 616px;
+    padding: 80px 0px 40px 0px;
+}
+
+.subscribe-newsletter-hedding {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    margin-top: 40px;
+}
+
+.subscribe-newsletter-description {
+    color: rgba(7, 2, 17, 0.60);
+
+    font-size: 20px;
+    margin-top: 22px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-bottom: 48px;
+    padding: 0px 210px;
+}
+
+.subscribe-btn {
+    width: 210px;
+    height: 72px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    left: -1500px;
+    border: none;
+}
+
+.subscribe-newsletter-email-part {
+    width: 648px;
+    height: 72px;
+    color: rgba(7, 2, 17, 0.30);
+    border-radius: 50px;
+    background: #FFF;
+    font-size: 18px;
+    font-weight: 400;
+    border: none;
+    text-align: center;
+}
+
+footer {
+    padding: 140px;
+    background-color: #070211;
+}
+
+.footer-up-row-contranir {
+    display: flex;
+    justify-content: space-between;
+    color: #d3c3c3;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+}
+.footer-up-contract-number{
+    display: inline;
+    width: 50%;
+}
+.footer-up-contract-website{
+    display: inline;
+    width: 50%;
+    
+}
+.footer-mid-social-contranir{
+    text-align: center;
+    margin-top: 48px;
+    margin-bottom: 48px;
+}
+.footer-down{
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+    margin-top: 50px;
+    font-size: 24px;
+    font-weight: 500;
+}
